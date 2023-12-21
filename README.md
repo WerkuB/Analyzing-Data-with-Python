@@ -11,3 +11,8 @@
 * Normalizing data<br>
 * Grouping data values into bins<br>
 * converting categorical variables into numerical quantitative variables 
+## Exploratory Data Analysis
+* Descriptive Statistics: Calculate basic descriptive statistical information, such as mean, median, mode, and quartile values, and use that information to better understand the distribution of the data.<br>
+* Putting data into groups to visualize the data better<br>
+* Use the Pearson correlation method to compare two continuous numerical variables<br>
+* Use the Chi-square test to find the association between two categorical variables and how to interpret them
