@@ -16,3 +16,4 @@
 * Putting data into groups to visualize the data better<br>
 * Use the Pearson correlation method to compare two continuous numerical variables<br>
 * Use the Chi-square test to find the association between two categorical variables and how to interpret them
+* Use Analysis of Variance(ANOVA) to test whether there are significant differences between the means of two or more groups
