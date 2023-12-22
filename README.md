@@ -28,3 +28,6 @@
 * Over-fitting, Under-fitting and Model Selection<br>
 * Ridge Regression<br>
 * Grid Search<br>
+## Final Assignment on housing price data
+* Determining the market price of a house<br>
+* Analyze and predict housing prices using attributes<br>
