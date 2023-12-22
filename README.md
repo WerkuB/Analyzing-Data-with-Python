@@ -23,3 +23,8 @@
 * Polynomial Regression and Pipelines<br>
 * Measures for In-Sample Evaluation<br>
 * Prediction and Decision Making<br>
+## Model Evaluation and Refinement
+* Model Evaluation<br>
+* Over-fitting, Under-fitting and Model Selection<br>
+* Ridge Regression<br>
+* Grid Search<br?
