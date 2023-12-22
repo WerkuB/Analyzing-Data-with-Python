@@ -27,4 +27,4 @@
 * Model Evaluation<br>
 * Over-fitting, Under-fitting and Model Selection<br>
 * Ridge Regression<br>
-* Grid Search<br?
+* Grid Search<br>
